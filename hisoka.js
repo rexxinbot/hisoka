@@ -533,7 +533,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Harga Sewa Bot\n ⭔ 3K Perminggu\n ⭔ 5K Perbulan\n ⭔ 10K Permanen\n\n Untuk Info Lebih Lanjut, Silahkan Chat Owner\n wa.me/6281317549796?text=Min+Sewa+Bot/n (Owner)\n\n Payment :\n\n ⭔ Dana : 081317549796\n ⭔ Gopay : 081317549796` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/48c1d9c5b6aaf38313750.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Harga Sewa Bot\n ⭔ 3K Perminggu\n ⭔ 5K Perbulan\n ⭔ 10K Permanen\n\n Untuk Info Lebih Lanjut, Silahkan Chat Owner\n wa.me/6281317549796?text=Min+Sewa+Bot/n (Owner)\n\n Payment :\n ⭔ Dana : 081317549796\n ⭔ Gopay : 081317549796` }, { quoted: m })
             }
             break
             case 'sc': {
